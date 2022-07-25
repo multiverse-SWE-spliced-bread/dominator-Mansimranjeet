@@ -4,3 +4,8 @@
   height: 30px;
   margin: 1em;
 }
+
+#blocks{
+  display: flex;
+  flex-wrap: wrap;
+}
